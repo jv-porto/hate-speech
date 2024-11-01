@@ -1,2 +1,7 @@
 .venv
 wiki
+tcc/
+src/models/bert_diogo.ipynb
+src/hateBR_analysis.ipynb
+src/hatespeech-br_analysis.ipynb
+src/hedos_analysis.ipynb
