@@ -22,3 +22,5 @@ tzdata==2024.1
 wheel==0.43.0
 transformers==4.45.2
 torch==2.5.0
+ipywidgets==8.1.5
+wget==3.2
