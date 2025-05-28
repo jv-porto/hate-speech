@@ -1,7 +1,4 @@
+.DS_Store
 .venv
 wiki
 tcc/
-src/hateBR_analysis.ipynb
-src/hatespeech-br_analysis.ipynb
-src/hedos_analysis.ipynb
-.DS_Store
